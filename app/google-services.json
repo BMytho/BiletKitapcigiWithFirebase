@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712259014295",
+    "project_id": "biletkitapcigi",
+    "storage_bucket": "biletkitapcigi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712259014295:android:550747b9cb4245bf7363d2",
+        "android_client_info": {
+          "package_name": "com.example.biletkitapcigi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT_pN91tyPnZ-l7Emlqo3KMDfWhtn9x0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
